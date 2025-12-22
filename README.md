@@ -147,58 +147,82 @@ class HariPrasath:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🔴 Expert Level
+<h4>🔴 Expert Level</h4>
 
-**Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**95%**  
-![](https://geps.dev/progress/95?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+<p>
+  <strong>Python</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-95%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-**TensorFlow | PyTorch** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**92%**  
-![](https://geps.dev/progress/92?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+<p>
+  <strong>TensorFlow | PyTorch</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-92%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-**Computer Vision (OpenCV)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**90%**  
-![](https://geps.dev/progress/90?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+<p>
+  <strong>Computer Vision (OpenCV)</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-90%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🔵 Advanced Level
+<h4>🔵 Advanced Level</h4>
 
-**JavaScript | React** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**85%**  
-![](https://geps.dev/progress/85?dangerColor=4ECDC4&warningColor=4ECDC4&successColor=4ECDC4)
+<p>
+  <strong>JavaScript | React</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-85%25-4ECDC4?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-**Data Science (Pandas)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**88%**  
-![](https://geps.dev/progress/88?dangerColor=4ECDC4&warningColor=4ECDC4&successColor=4ECDC4)
+<p>
+  <strong>Data Science (Pandas)</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-88%25-4ECDC4?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-![JS](https://skillicons.dev/icons?i=js,react,sklearn,pandas&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,sklearn,pandas&theme=dark" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🟢 Intermediate Level
+<h4>🟢 Intermediate Level</h4>
 
-**Flutter | Mobile Dev** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**75%**  
-![](https://geps.dev/progress/75?dangerColor=95E1D3&warningColor=95E1D3&successColor=95E1D3)
+<p>
+  <strong>Flutter | Mobile Dev</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-75%25-95E1D3?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-**Docker | Cloud** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**70%**  
-![](https://geps.dev/progress/70?dangerColor=95E1D3&warningColor=95E1D3&successColor=95E1D3)
+<p>
+  <strong>Docker | Cloud</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-70%25-95E1D3?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-![Flutter](https://skillicons.dev/icons?i=flutter,dart,docker,gcp&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,docker,gcp&theme=dark" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🟡 Learning
+<h4>🟡 Learning</h4>
 
-**MLOps | Kubernetes** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**60%**  
-![](https://geps.dev/progress/60?dangerColor=FFE66D&warningColor=FFE66D&successColor=FFE66D)
+<p>
+  <strong>MLOps | Kubernetes</strong><br>
+  <img src="https://img.shields.io/badge/Proficiency-60%25-FFE66D?style=for-the-badge&labelColor=1a1b27" height="28"/>
+</p>
 
-![MLOps](https://skillicons.dev/icons?i=kubernetes,aws&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws&theme=dark" />
+</p>
 
 </td>
 </tr>
