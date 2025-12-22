@@ -100,7 +100,7 @@ class HariPrasath:
 <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath-1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=bf91f3&border_radius=10&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" style="width: 100%;" alt="GitHub Stats"/>
 </td>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com/?user=Hariprasath-1603&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3&sideNums=70a5fd&currStreakNum=70a5fd&dates=38bdae&border_radius=10" style="width: 100%;" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath-1603&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&dates=38bdae" style="width: 100%;" alt="GitHub Streak"/>
 </td>
 </tr>
 <tr>
