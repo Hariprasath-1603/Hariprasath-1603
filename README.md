@@ -150,21 +150,29 @@ class HariPrasath:
 <td width="50%">
 
 #### 🔴 Expert Level
-```text
-Python                         ████████████████████░░░░░  95%
-TensorFlow | PyTorch           ███████████████████░░░░░░  92%
-Computer Vision (OpenCV)       ██████████████████░░░░░░░  90%
-```
+
+**Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**95%**  
+![](https://geps.dev/progress/95?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+
+**TensorFlow | PyTorch** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**92%**  
+![](https://geps.dev/progress/92?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+
+**Computer Vision (OpenCV)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**90%**  
+![](https://geps.dev/progress/90?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B)
+
 ![Python](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark)
 
 </td>
 <td width="50%">
 
 #### 🔵 Advanced Level
-```text
-JavaScript | React             █████████████████░░░░░░░░  85%
-Data Science (Pandas)          ██████████████████░░░░░░░  88%
-```
+
+**JavaScript | React** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**85%**  
+![](https://geps.dev/progress/85?dangerColor=4ECDC4&warningColor=4ECDC4&successColor=4ECDC4)
+
+**Data Science (Pandas)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**88%**  
+![](https://geps.dev/progress/88?dangerColor=4ECDC4&warningColor=4ECDC4&successColor=4ECDC4)
+
 ![JS](https://skillicons.dev/icons?i=js,react,sklearn,pandas&theme=dark)
 
 </td>
@@ -173,19 +181,23 @@ Data Science (Pandas)          ████████████████�
 <td width="50%">
 
 #### 🟢 Intermediate Level
-```text
-Flutter | Mobile Dev           ███████████████░░░░░░░░░░  75%
-Docker | Cloud                 ██████████████░░░░░░░░░░░  70%
-```
+
+**Flutter | Mobile Dev** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**75%**  
+![](https://geps.dev/progress/75?dangerColor=95E1D3&warningColor=95E1D3&successColor=95E1D3)
+
+**Docker | Cloud** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**70%**  
+![](https://geps.dev/progress/70?dangerColor=95E1D3&warningColor=95E1D3&successColor=95E1D3)
+
 ![Flutter](https://skillicons.dev/icons?i=flutter,dart,docker,gcp&theme=dark)
 
 </td>
 <td width="50%">
 
 #### 🟡 Learning
-```text
-MLOps | Kubernetes             ████████████░░░░░░░░░░░░░  60%
-```
+
+**MLOps | Kubernetes** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**60%**  
+![](https://geps.dev/progress/60?dangerColor=FFE66D&warningColor=FFE66D&successColor=FFE66D)
+
 ![MLOps](https://skillicons.dev/icons?i=kubernetes,aws&theme=dark)
 
 </td>
