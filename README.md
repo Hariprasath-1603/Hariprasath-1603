@@ -77,9 +77,9 @@ class HariPrasath:
 <div align="center">
 
 <table><tr>
-<td align="center"><img height="155em" src="https://github-readme-stats.vercel.app/api?username=Hariprasath-1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariprasath-1603&theme=tokyonight" height="155em" alt="GitHub Stats"/></td>
 <td align="center"><img height="155em" src="https://streak-stats.demolab.com?user=Hariprasath-1603&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3&sideLabels=70a5fd" alt="GitHub Streak"/></td>
-<td align="center"><img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath-1603&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6&cache_seconds=86400" alt="Top Languages"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hariprasath-1603&theme=tokyonight" height="155em" alt="Top Languages"/></td>
 </tr></table>
 
 <img src="https://komarev.com/ghpvc/?username=Hariprasath-1603&label=PROFILE+VIEWS&color=70a5fd&style=flat-square&labelColor=1a1b27" height="22" alt="Profile Views"/>
