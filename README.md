@@ -21,27 +21,13 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br>
-
 <div align="center">
 
-## 🌐 **CONNECT WITH ME**
-
-<a href="https://linkedin.com/in/hari-prasath-sm">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="32"/>
-</a>
-<a href="https://github.com/Hariprasath-1603">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="32"/>
-</a>
-<a href="mailto:sm.hariprasath16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="32"/>
-</a>
-<a href="https://www.leetcode.com/hariprasath-sm">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" height="32"/>
-</a>
-<a href="https://drive.google.com/file/d/1rJ3fmKX2IAHGSOxQGj4kfcgRaT7nXUGg/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=101010" height="32"/>
-</a>
+<a href="https://linkedin.com/in/hari-prasath-sm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="30"/></a>
+<a href="https://github.com/Hariprasath-1603"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="30"/></a>
+<a href="mailto:sm.hariprasath16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="30"/></a>
+<a href="https://www.leetcode.com/hariprasath-sm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" height="30"/></a>
+<a href="https://drive.google.com/file/d/1rJ3fmKX2IAHGSOxQGj4kfcgRaT7nXUGg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=101010" height="30"/></a>
 
 </div>
 
@@ -53,34 +39,35 @@
 class HariPrasath:
     def __init__(self):
         self.name = "Hari Prasath SM"
-        self.role = "Pre-Final Year AI & Data Science Student"
-        self.current_project = "VisionCrafter - Computer Vision Framework"
+        self.role = "Python Full Stack Developer (Backend Focus)"
+        self.current_project = "HealOps - Healthcare Management System"
         self.leetcode_solved = 150  # Active problem solver
         self.learning = [
             "Data Structures & Algorithms (Daily Practice)",
-            "Advanced Deep Learning (CNNs, RNNs, Transformers)",
-            "MLOps & Production ML Systems",
-            "Computer Vision & Image Processing"
+            "FastAPI Backend Development",
+            "REST API Design & Best Practices",
+            "Database Design (MySQL, PostgreSQL)",
+            "Flutter App Development"
         ]
-        self.interests = ["Computer Vision", "Deep Learning", "MLOps", "Problem Solving"]
+        self.interests = ["Backend Development", "API Design", "Mobile Apps", "Problem Solving"]
         
     def current_goals(self):
         return {
-            "immediate": "Complete 200+ LeetCode problems by Q1 2026",
-            "technical": "Deploy 3 end-to-end ML projects with 90%+ accuracy",
-            "practical": "Contribute to 2 open-source ML libraries",
-            "career": "Secure ML/AI internship at product-based company"
+            "immediate": "Complete 200+ LeetCode problems by Q2 2026",
+            "technical": "Ship HealOps as a production-ready full stack application",
+            "practical": "Contribute to open-source Python / FastAPI projects",
+            "career": "Secure Python Developer / Backend Developer internship"
         }
     
     def unique_value_proposition(self):
         return (
-            "I don't just implement models - I derive backpropagation on paper, "
-            "optimize loss functions from first principles, and understand "
-            "why architectures work, not just how to use them."
+            "I don't just write endpoints - I design clean REST APIs, "
+            "think about database schema from day one, and ship "
+            "full stack products that work end-to-end."
         )
     
     def get_status(self):
-        return "🔥 Shipping Projects • 📚 Mastering Fundamentals • 🚀 Growing Daily"
+        return "🔥 Shipping Projects • 📚 Mastering DSA • 🚀 Growing Daily"
 ```
 
 ---
@@ -89,46 +76,15 @@ class HariPrasath:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hariprasath-1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=bf91f3&border_radius=10&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" style="width: 100%;" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-<img src="https://nirzak-streak-stats.vercel.app?user=Hariprasath-1603&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3" style="width: 100%;" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath-1603&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8&border_radius=10" style="width: 100%;" alt="Top Languages"/>
-</td>
-<td width="50%" align="center">
-<img src="https://leetcard.jacoblin.cool/hariprasath-sm?theme=dark&font=Noto%20Sans&ext=activity" style="width: 100%;" alt="LeetCode Stats"/>
-</td>
-</tr>
-</table>
+<table><tr>
+<td align="center"><img height="155em" src="https://github-readme-stats.vercel.app/api?username=Hariprasath-1603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/></td>
+<td align="center"><img height="155em" src="https://streak-stats.demolab.com?user=Hariprasath-1603&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=bf91f3&sideLabels=70a5fd" alt="GitHub Streak"/></td>
+<td align="center"><img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath-1603&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=6&cache_seconds=86400" alt="Top Languages"/></td>
+</tr></table>
 
-### 👁️ **Profile Views**
-
-<img src="https://komarev.com/ghpvc/?username=Hariprasath-1603&label=PROFILE%20VIEWS&color=70a5fd&style=for-the-badge&labelColor=1a1b27" height="35" alt="Profile Views Counter"/>
-<img src="https://img.shields.io/github/followers/Hariprasath-1603?label=FOLLOWERS&style=for-the-badge&color=bf91f3&labelColor=1a1b27&logo=github" height="35" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/Hariprasath-1603?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github" height="35" alt="GitHub Stars"/>
-
-</div>
-
----
-
-## 💻 **CODING ACTIVITY**
-
-<div align="center">
-
-### � **Developer Quote of the Day**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔥 **Contribution Heatmap**
-
-![GitHub Activity Graph](https://ghchart.rshah.org/70a5fd/Hariprasath-1603)
+<img src="https://komarev.com/ghpvc/?username=Hariprasath-1603&label=PROFILE+VIEWS&color=70a5fd&style=flat-square&labelColor=1a1b27" height="22" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Hariprasath-1603?label=FOLLOWERS&style=flat-square&color=bf91f3&labelColor=1a1b27&logo=github" height="22" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Hariprasath-1603?label=STARS&style=flat-square&color=00D9FF&labelColor=1a1b27&logo=github" height="22" alt="Stars"/>
 
 </div>
 
@@ -138,132 +94,46 @@ class HariPrasath:
 
 <div align="center">
 
-### 🌟 **Skill Proficiency**
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 
-<h4>🔴 Expert Level</h4>
+**🔴 Expert &nbsp;|&nbsp; 🔵 Advanced**
 
-<p>
-  <strong>Python</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-95%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54&labelColor=1a1b27)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1b27)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=1a1b27)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1b27)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1b27)
 
-<p>
-  <strong>TensorFlow | PyTorch</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-92%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p>
-  <strong>Computer Vision (OpenCV)</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-90%25-FF6B6B?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,mysql,postgres&theme=dark" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" valign="top" width="50%">
 
-<h4>🔵 Advanced Level</h4>
+**🟢 Intermediate &nbsp;|&nbsp; 🟡 Learning**
 
-<p>
-  <strong>JavaScript | React</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-85%25-4ECDC4?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1b27)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=1a1b27)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1b27)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=1a1b27)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=1a1b27)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1a1b27)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1b27)
 
-<p>
-  <strong>Data Science (Pandas)</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-88%25-4ECDC4?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,sklearn,pandas&theme=dark" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>🟢 Intermediate Level</h4>
-
-<p>
-  <strong>Flutter | Mobile Dev</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-75%25-95E1D3?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p>
-  <strong>Docker | Cloud</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-70%25-95E1D3?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,docker,gcp&theme=dark" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🟡 Learning</h4>
-
-<p>
-  <strong>MLOps | Kubernetes</strong><br>
-  <img src="https://img.shields.io/badge/Proficiency-60%25-FFE66D?style=for-the-badge&labelColor=1a1b27" height="28"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,linux,git,gcp&theme=dark" />
 
 </td>
 </tr>
 </table>
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1a1b27)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b27)
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1b27)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1b27)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1b27)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1b27)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1b27)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
-
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1b27)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1b27)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1b27)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b27)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1b27)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b27)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1b27)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=1a1b27)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27)
 
 </div>
 
@@ -273,14 +143,14 @@ class HariPrasath:
 
 <div align="center">
 
-### 🎨 **VisionCrafter** - Computer Vision Framework
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/VisionCrafter)
+### 🏥 **HealOps** - Healthcare Management System
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/HealOps)
 
-**Tech Stack:** `Python` `OpenCV` `TensorFlow` `PyTorch` `NumPy`
+**Tech Stack:** `Python` `FastAPI` `Flutter` `MySQL` `JWT`
 
-📌 Comprehensive computer vision framework for image processing and ML model integration  
-🎯 **Impact:** Modular architecture enabling rapid prototyping of CV applications  
-⚡ **Key Features:** Real-time object detection | Custom model training pipeline | 10+ preprocessing utilities
+📌 Full stack healthcare management system with secure backend and cross-platform mobile app  
+🎯 **Impact:** End-to-end system covering patient lifecycle from registration to appointments  
+⚡ **Key Features:** JWT Authentication | Patient Management | Appointment Scheduling | Task Tracking | REST API
 
 ---
 
@@ -295,36 +165,14 @@ class HariPrasath:
 
 ---
 
-### 📊 **ML Project Portfolio**
+### 🎨 **VisionCrafter** - AI Image Generation using GAN
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/VisionCrafter)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
 
-**🧠 Deep Learning Projects**
-
-- **Image Classification CNN**  
-  `Accuracy: 94.3%` \| TensorFlow
-- **Sentiment Analysis RNN**  
-  `F1-Score: 0.89` \| PyTorch + LSTM
-- **Transfer Learning Models**  
-  Using ResNet50, VGG16
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Data Science Projects**
-
-- **Customer Churn Prediction**  
-  `ROC-AUC: 0.92` \| Scikit-learn
-- **Sales Forecasting Model**  
-  `RMSE: 12.4` \| Time Series Analysis
-- **EDA & Visualization Dashboards**  
-  Pandas, Matplotlib, Seaborn
-
-</td>
-</tr>
-</table>
+📌 Generative Adversarial Network (GAN) that synthesizes realistic images from random noise  
+🎯 **Impact:** Demonstrates deep understanding of generative models and adversarial training loops  
+⚡ **Key Features:** Custom GAN architecture | Generator & Discriminator training | Image synthesis pipeline | Training visualization
 
 </div>
 
@@ -372,12 +220,12 @@ class HariPrasath:
 |:--------------|:----------|:----------|
 | **LeetCode** | ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhariprasath-sm&logo=leetcode&logoColor=yellow) | [![LeetCode](https://img.shields.io/badge/-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/hariprasath-sm) |
 | **GitHub** | ![GitHub followers](https://img.shields.io/github/followers/Hariprasath-1603?style=flat&logo=github) ![Stars](https://img.shields.io/github/stars/Hariprasath-1603?style=flat&logo=github) | [![GitHub](https://img.shields.io/badge/-Profile-181717?style=flat&logo=github)](https://github.com/Hariprasath-1603) |
-| **VisionCrafter** | ![Stars](https://img.shields.io/github/stars/Hariprasath-1603/VisionCrafter?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/Hariprasath-1603/VisionCrafter?style=flat&logo=github) | [![Repo](https://img.shields.io/badge/-Repository-70a5fd?style=flat&logo=github)](https://github.com/Hariprasath-1603/VisionCrafter) |
+| **HealOps** | ![Stars](https://img.shields.io/github/stars/Hariprasath-1603/HealOps?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/Hariprasath-1603/HealOps?style=flat&logo=github) | [![Repo](https://img.shields.io/badge/-Repository-70a5fd?style=flat&logo=github)](https://github.com/Hariprasath-1603/HealOps) |
 | **SyncUp** | ![Stars](https://img.shields.io/github/stars/Hariprasath-1603/sync_up?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/Hariprasath-1603/sync_up?style=flat&logo=github) | [![Repo](https://img.shields.io/badge/-Repository-70a5fd?style=flat&logo=github)](https://github.com/Hariprasath-1603/sync_up) |
 
 ### 📚 **Coursework & Learning**
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `Natural Language Processing`  
-`Data Structures & Algorithms` • `Database Management` • `Cloud Computing` • `MLOps`
+`Data Structures & Algorithms` • `Backend Development` • `REST API Design` • `Database Management`  
+`Flutter Mobile Development` • `Cloud Computing` • `Operating Systems` • `Object Oriented Programming`
 
 </div>
 
@@ -387,8 +235,8 @@ class HariPrasath:
 
 <div align="center">
 
-![Coding](https://img.shields.io/badge/Currently-Building%20ML%20Projects-00D9FF?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-MLOps%20%26%20DSA-bf91f3?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Coding](https://img.shields.io/badge/Currently-Building%20HealOps-00D9FF?style=for-the-badge&logo=python&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%26%20DSA-bf91f3?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Available](https://img.shields.io/badge/Status-Open%20to%20Internships-70a5fd?style=for-the-badge&logo=handshake&logoColor=white)
 
 ### 📊 **Quick Stats**
@@ -400,9 +248,9 @@ class HariPrasath:
 ### 🔥 **Current Focus**
 
 🎯 **LeetCode Journey** - Solving DSA problems daily  
-💪 **Active Projects** - VisionCrafter & SyncUp development  
-🚀 **Learning Path** - Deep Learning & MLOps  
-📚 **Goal** - ML/AI Internship Summer 2026
+💪 **Active Projects** - HealOps & SyncUp development  
+🚀 **Learning Path** - FastAPI & Database Design  
+📚 **Goal** - Python / Backend Developer Internship 2026
 
 </div>
 
@@ -419,21 +267,21 @@ interface ValueProposition {
 
 const whatSetsMeApart: ValueProposition = {
   technical: [
-    "✓ Math-First Approach: I derive gradients manually before coding",
-    "✓ Production Mindset: Every project includes deployment considerations",
-    "✓ Problem Solver: 150+ LeetCode problems - strong algorithmic foundation",
-    "✓ Full-Stack ML: From data preprocessing to model deployment"
+    "✓ Backend-First Approach: I design APIs and DB schema before writing a single route",
+    "✓ Full Stack Delivery: Python FastAPI backend + Flutter frontend — shipped together",
+    "✓ Problem Solver: 150+ LeetCode problems — strong DSA & algorithmic foundation",
+    "✓ Clean Architecture: RESTful design, JWT auth, proper error handling by default"
   ],
   practical: [
-    "🎯 Real Projects with Metrics: Not just tutorials, but measurable results",
-    "🔧 Clean Code Advocate: Readable, maintainable, well-documented",
-    "📊 Data-Driven Decisions: Every claim backed by numbers",
-    "🚀 Fast Learner: New frameworks? Give me a weekend."
+    "🎯 Real Projects: Not just tutorials — production-structured, end-to-end apps",
+    "🔧 Clean Code Advocate: Readable, maintainable, well-documented Python",
+    "📊 Data-Aware: Comfortable with SQL schema design, queries & relationships",
+    "🚀 Fast Learner: New framework? Give me a weekend and I'll ship something."
   ],
   mindset: (
-    "I don't memorize architectures - I understand why ResNets have skip connections, " +
-    "how attention mechanisms solve long-range dependencies, and when to use " +
-    "batch norm vs layer norm. Theory guides my practice."
+    "I don't just call APIs - I think about rate limiting, auth flows, " +
+    "database normalization, and how the frontend will consume the response. " +
+    "Good backends are invisible. I build those."
   )
 };
 ```
@@ -444,13 +292,13 @@ const whatSetsMeApart: ValueProposition = {
 
 ## 📬 **LET'S BUILD SOMETHING AMAZING**
 
-### 🎯 **I'm Actively Seeking ML/AI Internships for Summer 2026**
+### 🎯 **I'm Actively Seeking Python / Backend Developer Internships for 2026**
 
 💼 **Looking for opportunities in:**  
-Machine Learning Engineering • Computer Vision • Data Science • MLOps • AI Research
+Python Backend Development • REST API Design • Full Stack Development • Flutter Mobile Apps
 
 🤝 **Open to collaborate on:**  
-Open Source ML Projects • Research Papers • Hackathons • Startup Ideas
+Open Source Python / FastAPI Projects • Full Stack Apps • Hackathons • Startup Ideas
 
 <br>
 
@@ -466,7 +314,7 @@ Open Source ML Projects • Research Papers • Hackathons • Startup Ideas
 
 ---
 
-### 💭 **"Understanding the mathematics behind machine learning is not optional—it's essential."**
+### 💭 **"Good software is not just code that works — it's code that others can read, extend, and trust."**
 
 **⭐ If you find my work valuable, star my repositories and let's connect!**
 
