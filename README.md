@@ -3,8 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=HARI+PRASATH+SM&fontSize=70&fontAlign=50&fontAlignY=35&color=gradient&customColorList=2,12,20,24,30&desc=Machine+Learning+Developer+%7C+Agentic+AI+%7C+Deep+Learning&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
 
 </div>
+</div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;530%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;Final+Year+AI+%26+Data+Science+%40+SSIET)](https://git.io/typing-svg)
+
+</div>
 ---
+
+
 
 ```yaml
 ╔═══════════════════════════════════════════════════════════════════════════╗
