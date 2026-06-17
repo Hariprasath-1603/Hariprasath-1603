@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=HARI+PRASATH+SM&fontSize=70&fontAlign=50&fontAlignY=35&color=gradient&customColorList=2,12,20,24,30&desc=Python+Developer+%7C+Flutter+Developer+%7C+Backend+Enthusiast&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=HARI+PRASATH+SM&fontSize=70&fontAlign=50&fontAlignY=35&color=gradient&customColorList=2,12,20,24,30&desc=Machine+Learning+Developer+%7C+Agentic+AI+%7C+Deep+Learning&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
 
 </div>
 
@@ -11,13 +11,13 @@
 ║  👨‍💻 Developer Profile                                                    ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  Name          : Hari Prasath SM                                          ║
-║  Role          : Python Full Stack Developer (Backend Focus)              ║
-║  Education     : B.Tech in AI & Data Science (Pre-Final Year)             ║
+║  Role          : Machine Learning Developer                               ║
+║  Education     : B.Tech in AI & Data Science (Final Year)                 ║
 ║  Location      : Tamil Nadu, India 🇮🇳                                     ║
-║  Specialization: Backend Development | API Design | Mobile Apps           ║
-║  Status        : 🟢 Actively Seeking Software Developer Internships       ║
-║  LeetCode      : 150+ Problems Solved | Active Problem Solver             ║
-║  Core Strength : Building scalable backend systems & real-world apps      ║
+║  Specialization: Agentic AI | LLMs | Deep Learning | Computer Vision      ║
+║  Status        : 🟢 Actively Seeking Full-Time ML/AI Developer Roles      ║
+║  LeetCode      : 530+ Problems Solved | Active Problem Solver             ║
+║  Patent        : Published (App No. 202541052471) — Text-to-Image GAN    ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -27,7 +27,7 @@
 <a href="https://github.com/Hariprasath-1603"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="30"/></a>
 <a href="mailto:sm.hariprasath16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="30"/></a>
 <a href="https://www.leetcode.com/hariprasath-sm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" height="30"/></a>
-<a href="https://drive.google.com/file/d/1rJ3fmKX2IAHGSOxQGj4kfcgRaT7nXUGg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=101010" height="30"/></a>
+<a href="https://hariprasath-sm.tech/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" height="30"/></a>
 
 </div>
 
@@ -39,35 +39,36 @@
 class HariPrasath:
     def __init__(self):
         self.name = "Hari Prasath SM"
-        self.role = "Python Full Stack Developer (Backend Focus)"
-        self.current_project = "HealOps - Healthcare Management System"
-        self.leetcode_solved = 150  # Active problem solver
+        self.role = "Machine Learning Developer"
+        self.current_projects = ["AgentScholar - Multi-Agent Research System", "Hallucination Detection FYP"]
+        self.leetcode_solved = 530  # and counting
+        self.patent = "Published — Text-to-Image Generation (App No. 202541052471)"
         self.learning = [
-            "Data Structures & Algorithms (Daily Practice)",
-            "FastAPI Backend Development",
-            "REST API Design & Best Practices",
-            "Database Design (MySQL, PostgreSQL)",
-            "Flutter App Development"
+            "Agentic AI & LangGraph Orchestration",
+            "LLM Fine-tuning & Evaluation",
+            "RAG Systems & Vector Databases",
+            "Deep Learning (PyTorch)",
+            "MLOps & Model Deployment"
         ]
-        self.interests = ["Backend Development", "API Design", "Mobile Apps", "Problem Solving"]
-        
+        self.interests = ["Generative AI", "LLMs", "Computer Vision", "Agentic Systems", "Open Source"]
+
     def current_goals(self):
         return {
-            "immediate": "Complete 200+ LeetCode problems by Q2 2026",
-            "technical": "Ship HealOps as a production-ready full stack application",
-            "practical": "Contribute to open-source Python / FastAPI projects",
-            "career": "Secure Python Developer / Backend Developer internship"
+            "immediate": "Complete Hallucination Detection FYP with benchmark evaluation",
+            "technical": "Ship AgentScholar with Groq + FAISS integration",
+            "practical": "Contribute to open-source LangChain / LangGraph projects",
+            "career": "Secure full-time ML/AI Developer role"
         }
-    
+
     def unique_value_proposition(self):
         return (
-            "I don't just write endpoints - I design clean REST APIs, "
-            "think about database schema from day one, and ship "
-            "full stack products that work end-to-end."
+            "I don't just train models — I build end-to-end AI systems. "
+            "From multi-agent pipelines with LangGraph to GAN-based image generation "
+            "with a published patent, I ship real ML products that work."
         )
-    
+
     def get_status(self):
-        return "🔥 Shipping Projects • 📚 Mastering DSA • 🚀 Growing Daily"
+        return "🔥 Building AI Systems • 📚 530+ LeetCode • 🚀 Patent Published"
 ```
 
 ---
@@ -101,35 +102,31 @@ class HariPrasath:
 **🔴 Expert &nbsp;|&nbsp; 🔵 Advanced**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54&labelColor=1a1b27)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1b27)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1b27)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1b27)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1b27)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1a1b27)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1b27)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1b27)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=1a1b27)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1b27)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1b27)
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker&theme=dark" />
 
 </td>
 <td align="center" valign="top" width="50%">
 
 **🟢 Intermediate &nbsp;|&nbsp; 🟡 Learning**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1b27)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=1a1b27)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1b27)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1b27)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1b27)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1b27)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=1a1b27)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=1a1b27)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=1a1b27)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1b27)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1b27)
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,linux,git,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,postgres,docker,git,mysql,flutter&theme=dark" />
 
 </td>
 </tr>
@@ -143,38 +140,51 @@ class HariPrasath:
 
 <div align="center">
 
-### 🏥 **HealOps** - Healthcare Management System
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/HealOps)
+### 🤖 **AgentScholar** — Autonomous Multi-Agent Research System
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/AgentScholar)
 
-**Tech Stack:** `Python` `FastAPI` `Flutter` `MySQL` `JWT`
+**Tech Stack:** `Python` `LangGraph` `LangChain` `Ollama` `Qwen 2.5:7B` `SQLite`
 
-📌 Full stack healthcare management system with secure backend and cross-platform mobile app  
-🎯 **Impact:** End-to-end system covering patient lifecycle from registration to appointments  
-⚡ **Key Features:** JWT Authentication | Patient Management | Appointment Scheduling | Task Tracking | REST API
-
----
-
-### 🔄 **SyncUp** - Social Media Application
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/sync_up)
-
-**Tech Stack:** `Flutter` `Dart` `Supabase` `PostgreSQL` `Supabase Auth`
-
-📌 Feature-rich social media application with real-time updates and user interactions  
-🎯 **Impact:** Seamless cross-platform experience for social networking  
-⚡ **Key Features:** User authentication | Real-time posts | Comments & likes | Profile management | Image sharing
+📌 Production-ready 4-agent autonomous research pipeline orchestrated via LangGraph's StateGraph  
+🎯 **Agents:** ResearchPlanner → ResearchSearcher → ResearchSynthesizer → ReportWriter  
+⚡ **Key Features:** Source credibility scoring (0–100) | APA/MLA/IEEE citations | SQLite checkpointing | 7-day result caching | Circuit breaker pattern
 
 ---
 
-### 🎨 **VisionCrafter** - AI Image Generation using GAN
+### 🎨 **VisionCrafter** — Text-to-Image Generator *(Patent Published)*
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/VisionCrafter)
 
-**Tech Stack:** `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib`
+**Tech Stack:** `Python` `PyTorch` `BERT` `GANs` `COCO` `OpenCV`
 
-📌 Generative Adversarial Network (GAN) that synthesizes realistic images from random noise  
-🎯 **Impact:** Demonstrates deep understanding of generative models and adversarial training loops  
-⚡ **Key Features:** Custom GAN architecture | Generator & Discriminator training | Image synthesis pipeline | Training visualization
+📌 Deep learning pipeline combining BERT text encodings with GAN-based image synthesis  
+🎯 **Trained on:** COCO dataset (100k+ image-caption pairs)  
+⚡ **Key Features:** Custom GAN architecture | Text-conditioned image generation | **Patent filed (App No. 202541052471, Published June 2025)**
+
+---
+
+### 👁️ **BlinkSense** — Real-Time Drowsiness Detection
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/BlinkSense)
+
+**Tech Stack:** `Python` `OpenCV` `dlib` `NumPy` `SciPy`
+
+📌 Real-time driver drowsiness detection using Eye Aspect Ratio (EAR) via webcam  
+🎯 **Impact:** Audible + visual alerts on sustained eye closure for road safety  
+⚡ **Key Features:** EAR-based detection | Configurable thresholds | Real-time webcam monitoring
+
+---
+
+### 🏥 **HealOPS** — Healthcare Management System
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-70a5fd?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Hariprasath-1603/HealOPS)
+
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `JWT`
+
+📌 Production-grade healthcare REST API with multi-container Docker orchestration  
+🎯 **Impact:** Full patient lifecycle management from registration to appointments  
+⚡ **Key Features:** JWT auth | Redis caching | RabbitMQ async notifications | Rate limiting | 4-service Docker Compose setup
 
 </div>
+
+---
 
 ## 📈 **CONTRIBUTION ACTIVITY**
 
@@ -196,36 +206,21 @@ class HariPrasath:
 
 ---
 
-## 📊 **DETAILED METRICS**
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariprasath-1603&theme=tokyonight" width="98%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hariprasath-1603&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hariprasath-1603&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariprasath-1603&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hariprasath-1603&theme=tokyonight&utcOffset=5.5" width="49%" />
-
-</div>
-
----
-
 ## 🎓 **CERTIFICATIONS & ACHIEVEMENTS**
 
 <div align="center">
 
 | 🏆 Achievement | 📅 Details | 🔗 Proof |
 |:--------------|:----------|:----------|
+| **Patent** | Text-to-Image Generation — App No. 202541052471, Published June 2025 | VisionCrafter Repo |
 | **LeetCode** | ![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhariprasath-sm&logo=leetcode&logoColor=yellow) | [![LeetCode](https://img.shields.io/badge/-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/hariprasath-sm) |
+| **SIH 2025** | AI-powered agricultural assistant — React, FastAPI, Groq LLM (5-member team) | Smart India Hackathon |
+| **VIT Hackathon** | Medical RAG System — 92% retrieval accuracy (24hrs, 5-member team) | Vellore Institute of Technology |
 | **GitHub** | ![GitHub followers](https://img.shields.io/github/followers/Hariprasath-1603?style=flat&logo=github) ![Stars](https://img.shields.io/github/stars/Hariprasath-1603?style=flat&logo=github) | [![GitHub](https://img.shields.io/badge/-Profile-181717?style=flat&logo=github)](https://github.com/Hariprasath-1603) |
-| **HealOps** | ![Stars](https://img.shields.io/github/stars/Hariprasath-1603/HealOps?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/Hariprasath-1603/HealOps?style=flat&logo=github) | [![Repo](https://img.shields.io/badge/-Repository-70a5fd?style=flat&logo=github)](https://github.com/Hariprasath-1603/HealOps) |
-| **SyncUp** | ![Stars](https://img.shields.io/github/stars/Hariprasath-1603/sync_up?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/Hariprasath-1603/sync_up?style=flat&logo=github) | [![Repo](https://img.shields.io/badge/-Repository-70a5fd?style=flat&logo=github)](https://github.com/Hariprasath-1603/sync_up) |
 
 ### 📚 **Coursework & Learning**
-`Data Structures & Algorithms` • `Backend Development` • `REST API Design` • `Database Management`  
-`Flutter Mobile Development` • `Cloud Computing` • `Operating Systems` • `Object Oriented Programming`
+`Machine Learning & Deep Learning` • `Agentic AI Systems` • `NLP & LLMs` • `Computer Vision`  
+`Data Structures & Algorithms` • `MLOps` • `REST API Design` • `Database Management`
 
 </div>
 
@@ -235,22 +230,16 @@ class HariPrasath:
 
 <div align="center">
 
-![Coding](https://img.shields.io/badge/Currently-Building%20HealOps-00D9FF?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-FastAPI%20%26%20DSA-bf91f3?style=for-the-badge&logo=fastapi&logoColor=white)
-![Available](https://img.shields.io/badge/Status-Open%20to%20Internships-70a5fd?style=for-the-badge&logo=handshake&logoColor=white)
-
-### 📊 **Quick Stats**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hariprasath-1603&style=for-the-badge&color=70a5fd)
-![GitHub followers](https://img.shields.io/github/followers/Hariprasath-1603?style=for-the-badge&color=bf91f3&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/Hariprasath-1603?style=for-the-badge&color=00D9FF&logo=github)
+![Coding](https://img.shields.io/badge/Currently-Building%20AgentScholar-00D9FF?style=for-the-badge&logo=python&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-LangGraph%20%26%20LLM%20Eval-bf91f3?style=for-the-badge&logo=langchain&logoColor=white)
+![Available](https://img.shields.io/badge/Status-Open%20to%20ML%2FAI%20Roles-70a5fd?style=for-the-badge&logo=handshake&logoColor=white)
 
 ### 🔥 **Current Focus**
 
-🎯 **LeetCode Journey** - Solving DSA problems daily  
-💪 **Active Projects** - HealOps & SyncUp development  
-🚀 **Learning Path** - FastAPI & Database Design  
-📚 **Goal** - Python / Backend Developer Internship 2026
+🤖 **AgentScholar** - Upgrading with Groq + FAISS vector search  
+🧠 **FYP** - Hallucination Detection System for LLMs  
+📚 **LeetCode** - 530+ solved, pushing for 600+  
+🎯 **Goal** - Full-time ML/AI Developer role 2026
 
 </div>
 
@@ -258,32 +247,26 @@ class HariPrasath:
 
 ## 💡 **WHAT MAKES ME DIFFERENT**
 
-```typescript
-interface ValueProposition {
-  technical: string[];
-  practical: string[];
-  mindset: string;
+```python
+what_sets_me_apart = {
+    "technical": [
+        "✓ Agentic AI: Built production multi-agent systems with LangGraph StateGraph",
+        "✓ Research depth: Published patent in text-to-image generation (GAN + BERT)",
+        "✓ Problem Solver: 530+ LeetCode — strong DSA & algorithmic foundation",
+        "✓ Full Stack ML: From model training to FastAPI deployment with Docker",
+    ],
+    "practical": [
+        "🎯 Real Systems: Not just notebooks — production-structured, end-to-end ML apps",
+        "🔧 Agent Design: Multi-agent pipelines with credibility scoring & crash recovery",
+        "📊 Data-Aware: EDA, feature correlation, statistical analysis on real datasets",
+        "🚀 Fast Learner: New framework? Give me a weekend and I'll ship something.",
+    ],
+    "mindset": (
+        "I don't just run model.fit() — I think about agent orchestration, "
+        "source credibility, hallucination detection, and how the whole system "
+        "behaves at scale. Good ML is invisible. I build that."
+    )
 }
-
-const whatSetsMeApart: ValueProposition = {
-  technical: [
-    "✓ Backend-First Approach: I design APIs and DB schema before writing a single route",
-    "✓ Full Stack Delivery: Python FastAPI backend + Flutter frontend — shipped together",
-    "✓ Problem Solver: 150+ LeetCode problems — strong DSA & algorithmic foundation",
-    "✓ Clean Architecture: RESTful design, JWT auth, proper error handling by default"
-  ],
-  practical: [
-    "🎯 Real Projects: Not just tutorials — production-structured, end-to-end apps",
-    "🔧 Clean Code Advocate: Readable, maintainable, well-documented Python",
-    "📊 Data-Aware: Comfortable with SQL schema design, queries & relationships",
-    "🚀 Fast Learner: New framework? Give me a weekend and I'll ship something."
-  ],
-  mindset: (
-    "I don't just call APIs - I think about rate limiting, auth flows, " +
-    "database normalization, and how the frontend will consume the response. " +
-    "Good backends are invisible. I build those."
-  )
-};
 ```
 
 ---
@@ -292,13 +275,13 @@ const whatSetsMeApart: ValueProposition = {
 
 ## 📬 **LET'S BUILD SOMETHING AMAZING**
 
-### 🎯 **I'm Actively Seeking Python / Backend Developer Internships for 2026**
+### 🎯 **Open to Full-Time ML/AI Developer Roles — 2026**
 
 💼 **Looking for opportunities in:**  
-Python Backend Development • REST API Design • Full Stack Development • Flutter Mobile Apps
+Machine Learning • Agentic AI Systems • LLMs & NLP • Computer Vision • MLOps
 
 🤝 **Open to collaborate on:**  
-Open Source Python / FastAPI Projects • Full Stack Apps • Hackathons • Startup Ideas
+Open Source LangChain / LangGraph Projects • AI Research Tools • Hackathons • Startup Ideas
 
 <br>
 
@@ -308,13 +291,13 @@ Open Source Python / FastAPI Projects • Full Stack Apps • Hackathons • Sta
 <a href="https://linkedin.com/in/hari-prasath-sm">
   <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Let's_Talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="40"/>
 </a>
-<a href="https://drive.google.com/file/d/1rJ3fmKX2IAHGSOxQGj4kfcgRaT7nXUGg/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_Download_Resume-View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=101010" height="40"/>
+<a href="https://hariprasath-sm.tech/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-hariprasath--sm.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" height="40"/>
 </a>
 
 ---
 
-### 💭 **"Good software is not just code that works — it's code that others can read, extend, and trust."**
+### 💭 **"Good ML is not just a model that trains — it's a system that thinks, recovers, and delivers."**
 
 **⭐ If you find my work valuable, star my repositories and let's connect!**
 
