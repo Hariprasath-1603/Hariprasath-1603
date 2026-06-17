@@ -10,8 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;530%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;Final+Year+AI+%26+Data+Science+%40+SSIET)](https://git.io/typing-svg)
 
 </div>
----
-
 
 
 ```yaml
