@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;600%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;ML+%26+Agentic+AI+Developer+%40+SSIET" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;600%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;ML+%26+Agentic+AI+Student+%40+SSIET" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -169,6 +169,18 @@ Real-time driver drowsiness detection using Eye Aspect Ratio (EAR) via webcam.
 | **LeetCode** | 600+ Problems Solved — [Profile](https://www.leetcode.com/hariprasath-sm) |
 | **SIH 2025** | AI-powered agricultural assistant — React, FastAPI, Groq LLM (5-member team) |
 | **VIT Hackathon** | Medical RAG System — 92% retrieval accuracy (24hrs, 5-member team) |
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariprasath-1603/Hariprasath-1603/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariprasath-1603/Hariprasath-1603/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hariprasath-1603/Hariprasath-1603/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
