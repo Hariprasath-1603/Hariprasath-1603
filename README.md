@@ -19,13 +19,8 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/hari-prasath-sm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="30"/></a>
-  <a href="https://github.com/Hariprasath-1603"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="30"/></a>
-  <a href="mailto:sm.hariprasath16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="30"/></a>
-  <a href="https://www.leetcode.com/hariprasath-sm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=101010" height="30"/></a>
-  <a href="https://hariprasath-sm.tech/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" height="30"/></a>
-</p>
+
+
 
 ---
 
@@ -107,20 +102,13 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath-1603&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Stats"/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariprasath-1603&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="192px" alt="Top Languages"/>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Hariprasath-1603&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats"/>
+  </p>
+  <p align="center">
+    <img src="https://github-widgetbox.vercel.app/api/languages?username=Hariprasath-1603&theme=nautilus" alt="Top Languages"/>
   </p>
   <br/>
   <b>Note:</b> Top languages reflects only public code and doesn't indicate depth of experience.
-</details>
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hariprasath-1603&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,Experience" alt="GitHub Trophies"/>
-  </p>
 </details>
 
 <details>
