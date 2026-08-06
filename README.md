@@ -182,15 +182,7 @@ Real-time driver drowsiness detection using Eye Aspect Ratio (EAR) via webcam.
   </picture>
 </p>
 
----
 
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke"/>
-</p>
-
----
 
 ## 💬 Dev Quote
 
