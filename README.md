@@ -39,41 +39,64 @@
 
 ## 🛠️ My Skills
 
-### 👉 Core ML / AI Stack
+### 👉 Languages & Core
 
 <p align="left">
-  &emsp;<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54&labelColor=1a1b27"/>
-  &emsp;<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-00A67E?style=flat-square&logo=langchain&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1b27"/>
-  &emsp;<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1b27"/>
+  &emsp;
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  &emsp;
+  <a href="https://dart.dev" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.sqlite.org" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+&emsp;
 </p>
 
-### 👉 Data & Backend
+### 👉 Agentic AI, LLMs & Deep Learning
 
 <p align="left">
-  &emsp;<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1b27"/>
+  &emsp;
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-00A67E?style=flat&logo=langchain&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.langchain.com" target="_blank"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"></a>
+  &emsp;
+  <a href="https://groq.com" target="_blank"><img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white"></a>
+  &emsp;
+  <a href="https://pytorch.org" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
+  &emsp;
+  <a href="https://huggingface.co" target="_blank"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"></a>
+&emsp;
 </p>
 
-### 👉 DevOps & Tools
+### 👉 RAG, Vector Search & Deployment
 
 <p align="left">
-  &emsp;<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1b27"/>
-  &emsp;<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black&labelColor=1a1b27"/>
-  &emsp;<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=1a1b27"/>
-  &emsp;<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1b27"/>
+  &emsp;
+  <a href="https://github.com/facebookresearch/faiss" target="_blank"><img alt="FAISS" src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat&logo=meta&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.trychroma.com" target="_blank"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logoColor=white"></a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"></a>
+  &emsp;
+  <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.docker.com" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+&emsp;
+</p>
+
+### 👉 App & Data
+
+<p align="left">
+  &emsp;
+  <a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"></a>
+  &emsp;
+  <a href="https://supabase.com" target="_blank"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"></a>
+  &emsp;
+  <a href="https://firebase.google.com" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black"></a>
+  &emsp;
+  <a href="https://streamlit.io" target="_blank"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"></a>
+&emsp;
 </p>
 
 ---
