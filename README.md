@@ -105,7 +105,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Hariprasath-1603&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats"/>
   </p>
   <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/languages?username=Hariprasath-1603&theme=nautilus" alt="Top Languages"/>
+    <img src="https://github-widgetbox.vercel.app/api/skills?username=Hariprasath-1603&languages=python,dart,sql,html,css,javascript&theme=nautilus" alt="Top Languages"/>
   </p>
   <br/>
   <b>Note:</b> Top languages reflects only public code and doesn't indicate depth of experience.
