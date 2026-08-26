@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;600%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;ML+%26+Agentic+AI+Student+%40+SSIET" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Systems+%F0%9F%A4%96;LangGraph+%7C+LangChain+%7C+PyTorch;600%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Patent+Published+%E2%80%94+Text-to-Image+GAN+%F0%9F%8E%A8;ML+%26+Agentic+AI+Student+%40+SIET" alt="Typing SVG"/>
   </a>
 </p>
 
